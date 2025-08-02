@@ -29,12 +29,14 @@ Click "Show Your Work" to see the exact formulas and calculations.
 | **🎨 Visual Charts** | Interactive growth and scenario comparisons |
 | **🔒 100% Private** | No data leaves your computer |
 
-## 📋 Quick Start
+## 📋 Initial setup
+```bash
 pip install streamlit==1.28.1
 pip install pandas==2.0.3
 pip install plotly==5.17.0
 pip install langchain langchain-huggingface transformers
 pip install langchain-community
+```
 
 **2. Run**
 ```bash
