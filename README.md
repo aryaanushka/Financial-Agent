@@ -4,7 +4,6 @@
 
 ![Financial Planning Agent](https://github.com/aryaanushka/Financial-Agent/blob/main/Screenshot.png)
 
-*Replace `yourusername` with your actual GitHub username and upload your screenshot*
 
 ## 🎯 What This Does
 
